@@ -1,7 +1,6 @@
 ## Hi, I'm Pedro Kelvin!
 
-- 🔭 I’m currently working on full stack
-- 🌱 I’m currently learning Typescript
+- I'm currently working as a full stack
   
  <div>
   <a href="https://github.com/rafaballerini">
